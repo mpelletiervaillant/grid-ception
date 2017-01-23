@@ -13,7 +13,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  font-family: Georgia, Serif;
+  font-family: sans-serif;
 }
 
 *, *::before, *::after {
