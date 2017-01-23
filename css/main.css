@@ -7,7 +7,6 @@
 html {
   box-sizing: border-box;
 
-
   -moz-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -31,4 +30,8 @@ body {
 
 figure {
   margin: 0;
+}
+
+h1 {
+  display: block;
 }
